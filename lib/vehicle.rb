@@ -29,5 +29,4 @@ class Vehicle
       passenger.adult?
     end.count
   end
-
 end
